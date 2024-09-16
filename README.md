@@ -20,7 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhishek chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek chauhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek-chauhan-53b98124a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-chauhan-53b98124a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/
+abhishek-chauhan-53b98124a
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-chauhan-53b98124a" height="30" width="40" /></a>
 <a href="https://instagram.com/_chauhan_abhishek_pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chauhan_abhishek_pradhan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@abhishek_chauh22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishek_chauh22" height="30" width="40" /></a>
 </p>
